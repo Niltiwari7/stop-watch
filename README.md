@@ -8,9 +8,9 @@ StopWatch Timer is a simple web application that allows users to track time. It 
 
 ## Languages used
 
--** HTML **
--** CSS**
--** JavaScript **
+ HTML
+ CSS
+JavaScript
 
 ## Features
 
@@ -27,7 +27,11 @@ StopWatch Timer is a simple web application that allows users to track time. It 
 2. Open `index.html` in your web browser.
 3. Click the "Start" button to begin the timer.
 4. Use the "Pause" button to pause the timer when needed.
-5. Click "Reset" to reset the timer to zero.
+5. Click "Reset" to reset the timer to zero
+
+## ScreenShot of the project
+![image](https://github.com/Niltiwari7/stop-watch/assets/93751356/9bce6815-1277-44dc-923d-8951aa7bcd9a)
+![image](https://github.com/Niltiwari7/stop-watch/assets/93751356/457a0d5c-b829-4b6e-8ae9-bf636313a227)
 
 ## Contributing
 
